@@ -1,4 +1,4 @@
-package godbschemapostgress
+package dbschema
 
 import (
 	"database/sql"
